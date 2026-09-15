@@ -65,16 +65,6 @@ CitiSolve/
 │
 └── README.md
 
----
-
-⚙️ Installation (Local Setup)
-
-1️⃣ Clone Repository
-
-git clone https://github.com/vaishnavi-giri26/CitiSolve.git
-cd CitiSolve
-
----
 
 2️⃣ Backend Setup
 
@@ -113,8 +103,7 @@ CitiSolve aims to:
 
 👩‍💻 Author
 
-Vaishnavi Giri
+Singam Lokesh
 
-- GitHub: https://github.com/vaishnavi-giri26
 
 
